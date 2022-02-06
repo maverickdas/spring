@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 // @Component
 // public class KafkaListeners {
 
-
+// TODO: Dynamic args in annotations - https://stackoverflow.com/a/12568437/9587133
 //     @Value("$(kafka.test.topic)")
 //     String topicName;
 
